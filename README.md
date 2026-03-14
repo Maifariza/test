@@ -243,7 +243,7 @@ Penggunaan sistem dinamis ini membuat pengelolaan data sertifikat menjadi lebih 
 
 - Kode Grid Layout Sertifikat
 
-  > <img width="324" height="66" alt="Image" src="https://github.com/user-attachments/assets/b53df69d-3f5c-47a6-b9b6-33e0e467d47c" />
+  > <img width="324" height="66" alt="Image" src="https://github.com/user-attachments/assets/99f89701-3eef-4a78-a866-42d76864af54" />
   >
   > Pada bagian ini, saya menggunakan sistem grid dari Bootstrap seperti row, col-md-6, dan col-lg-4 untuk mengatur tata letak card sertifikat. Kode ini berfungsi supaya jumlah card dalam satu baris bisa menyesuaikan dengan ukuran layar.
   > Jadi ketika dibuka di layar besar, dalam satu baris bisa tampil tiga card sekaligus. Kalau di layar ukuran medium, tampil dua card. Sedangkan di layar kecil seperti HP, otomatis turun menjadi satu card per baris.
