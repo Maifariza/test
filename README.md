@@ -107,7 +107,7 @@ Bagian Footer merupakan bagian penutup dari halaman website yang berada di bagia
 
 Footer dibuat dengan tampilan yang sederhana yang berisi informasi singkat mengenai pembuat website dan menjadi penutup dari halaman website.
 
-<img width="1893" height="50" alt="Image" src="https://github.com/user-attachments/assets/b20d93d6-ad6c-4c55-9e23-fedf82ae95d9" />
+<img width="1892" height="48" alt="Image" src="https://github.com/user-attachments/assets/20785394-e006-44a9-b65f-289c57d112a0" />
 
 ---
 
