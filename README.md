@@ -77,7 +77,7 @@ Bagian Home merupakan tampilan pertama yang dilihat saat program di running dan 
 
 Pada bagian ini juga terdapat dua tombol navigasi yang mengarah ke section About Me dan Certificates. Layout disusun menggunakan sistem grid dari Bootstrap agar tampilan tetap rapi dan seimbang antara teks dan gambar. Background dibuat menggunakan warna dan gradient agar terlihat lebih menarik.
 
-<img width="1895" height="948" alt="Image" src="https://github.com/user-attachments/assets/aeb9ccc8-c509-4937-950c-ef4d81e38941" />
+<img width="1894" height="947" alt="Image" src="https://github.com/user-attachments/assets/481a87df-a995-42a3-996a-7fa08669cf66" />
 
 --- 
 
