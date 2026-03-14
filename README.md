@@ -96,7 +96,7 @@ Section Certificates menampilkan daftar sertifikat yang pernah saya peroleh. Ser
 
 Setiap card berisi gambar sertifikat, judul kegiatan, tahun, serta tombol “Lihat” untuk membuka gambar sertifikat secara lebih jelas. Penggunaan card dan grid membantu tampilan tetap teratur di berbagai ukuran layar.
 
-<img width="1887" height="941" alt="Image" src="https://github.com/user-attachments/assets/fd6054a7-ffd2-4d44-b7f6-e6006338a848" />
+<img width="1885" height="944" alt="Image" src="https://github.com/user-attachments/assets/1f85b659-01eb-443f-8f7a-6095dd1a0058" />
 
 
 ---
