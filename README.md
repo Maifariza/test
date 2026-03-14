@@ -85,7 +85,7 @@ Pada bagian ini juga terdapat dua tombol navigasi yang mengarah ke section About
 
 Section About Me berisi informasi lebih lengkap tentang diri saya. Bagian ini dibagi menjadi tiga bagian utama, yaitu Deskripsi Diri, Skills, dan Pengalaman. Selain itu, pada section ini saya juga menekankan keseimbangan antara informasi personal dan kemampuan teknis. Jadi tidak hanya menjelaskan siapa saya, tetapi juga menunjukkan apa yang bisa saya lakukan dan pengalaman apa saja yang sudah saya jalani.
 
-<img width="1896" height="949" alt="Image" src="https://github.com/user-attachments/assets/4e371f38-54d4-4d03-9601-7537c1335382" />
+<img width="1888" height="945" alt="Image" src="https://github.com/user-attachments/assets/dde1a52f-f3f5-41c3-af2e-70f1fda30a4f" />
 
 
 ---
