@@ -19,7 +19,7 @@ Website ini dibagi menjadi beberapa bagian utama, yaitu Home, About Me, dan Cert
 
 ## Struktur Project
 
-<img width="284" height="297" alt="Image" src="https://github.com/user-attachments/assets/5b1f2c44-26e1-4856-9b17-c7c7b5bcbc67" />
+<img width="299" height="296" alt="Image" src="https://github.com/user-attachments/assets/4095ff30-bc5c-4b9d-bd2b-b1af2ce3725d" />
 
 Project ini terdiri dari beberapa file dan folder yang memiliki fungsi masing-masing.
 
