@@ -125,25 +125,25 @@ Kode di section Home ini berfungsi untuk menampilkan identitas saya sebagai pemb
 
 - Kode Struktur Section 
 
-  > <img width="372" height="50" alt="Image" src="https://github.com/user-attachments/assets/6a3195f8-083b-4bb4-9ae3-dfe1f87593bb" />
+  > <img width="345" height="57" alt="Image" src="https://github.com/user-attachments/assets/aabdca2d-eaaa-4353-9082-9ab2009ad9b0" />
   >
   > Pada bagian Hero, saya membuat struktur utama menggunakan section id="home">. Saya pakai id="home" supaya bisa terhubung langsung dengan navbar. Jadi ketika tombol “Home” ditekan, halaman otomatis scroll ke bagian ini tanpa reload.
 
 - Kode Grid Layout 
 
-  > <img width="322" height="45" alt="Image" src="https://github.com/user-attachments/assets/40cef93b-585b-4c34-a977-5e3fa65fec05" />
+  > <img width="362" height="47" alt="Image" src="https://github.com/user-attachments/assets/04239b58-62aa-4d30-8d25-74f276508220" />
   >
   > Saya sengaja pakai sistem grid Bootstrap supaya layout-nya responsif. Jadi di layar besar tampil dua kolom (teks dan gambar berdampingan), tapi kalau di layar kecil otomatis turun jadi satu kolom. Dengan cara ini, saya tidak perlu menulis media query manual.
 
 - Kode Heading 
 
-  > <img width="494" height="27" alt="Image" src="https://github.com/user-attachments/assets/cb340b4c-a9b5-4ef6-adf6-f39ba8446915" />
+  > <img width="488" height="25" alt="Image" src="https://github.com/user-attachments/assets/f56c7c5c-9027-4de2-9757-0748e936a157" />
   >
   > Saya menggunakan button class btn dari Bootstrap untuk styling dasar, lalu saya kombinasikan dengan CSS sendiri agar warnanya sesuai tema pink yang saya gunakan.
 
 - Kode Button 
 
-  > <img width="350" height="47" alt="Image" src="https://github.com/user-attachments/assets/fd7b1f25-90e4-496f-9843-d01ea1f92ff8" />
+  > <img width="346" height="44" alt="Image" src="https://github.com/user-attachments/assets/a00fbc25-3e71-4b2b-b3b9-90841d829707" />
   >
   > Untuk gambar, saya menggunakan kode diatas. Lingkaran itu saya buat di CSS menggunakan position: absolute agar terlihat seperti background dekoratif.
   > Kemudian saya tambahkan efek mask gradient di .hero-img supaya bagian bawah foto terlihat lebih halus dan menyatu dengan background.
@@ -152,7 +152,7 @@ Kode di section Home ini berfungsi untuk menampilkan identitas saya sebagai pemb
 
 ### **📌 Kode Section About**
 
-<img width="900" height="188" alt="Image" src="https://github.com/user-attachments/assets/6cf998cd-bff1-4c73-844d-df948c13b971" />
+<img width="900" height="193" alt="Image" src="https://github.com/user-attachments/assets/3541b583-d87b-4fed-88e1-3aafa0c2a678" />
 
 <Penjelasan:>
 
@@ -162,7 +162,7 @@ Kode di section ini berfungsi untuk menampilkan informasi yang lebih detail tent
 
 - Kode Struktur Section About
 
-  > <img width="294" height="53" alt="Image" src="https://github.com/user-attachments/assets/99fa678a-5593-4543-869d-351ac2bc6988" />
+  > <img width="353" height="52" alt="Image" src="https://github.com/user-attachments/assets/8c353a9b-c5af-41b2-bdc1-9b380321efbb" />
   >
   > Pada bagian ini, saya membuat section About menggunakan <section id="about". Saya memberikan id="about" supaya bisa terhubung langsung dengan tombol “About Me” di tampilan Home (Hero) dan juga dari navbar.
   > Class py-5 berasal dari Bootstrap yang berfungsi memberikan padding atas dan bawah agar section ini tidak terlalu rapat dengan section sebelumnya.
@@ -216,7 +216,7 @@ c. **Pengalaman**
 
 <Penjelasan:>
 
-Pada section Certificates, saya menampilkan daftar sertifikat yang pernah saya peroleh. Berbeda dengan versi sebelumnya yang masih statis, pada project ini data sertifikat ditampilkan secara dinamis dengan mengambil data dari database menggunakan PHP dan MySQL.
+Pada section Certificates, saya menampilkan daftar sertifikat yang pernah saya peroleh. Berbeda dengan versi sebelumnya yang masih bersifat statis, pada project ini data sertifikat ditampilkan secara dinamis dengan mengambil data dari database menggunakan PHP dan MySQL.
 
 Data seperti gambar sertifikat, judul kegiatan, dan tahun pelaksanaan disimpan di dalam database, kemudian dipanggil menggunakan query PHP. Setelah itu data ditampilkan ke halaman website menggunakan perulangan sehingga setiap data sertifikat dapat muncul secara otomatis dalam bentuk card.
 
@@ -226,7 +226,7 @@ Penggunaan sistem dinamis ini membuat pengelolaan data sertifikat menjadi lebih 
 
   > <img width="609" height="50" alt="image" src="https://github.com/user-attachments/assets/b3b00b94-c316-40a4-a5dc-f74239587f93" />
   >
-  > Pada bagian ini, saya membuat section menggunakan <section id="certificates"> agar section ini dapat terhubung dengan tombol navigasi di navbar maupun tombol di Hero section menggunakan anchor link. Saya juga menambahkan class py-5 dari Bootstrap untuk memberikan jarak atas dan bawah agar tampilan lebih rapi.
+  > Pada bagian ini, saya membuat section menggunakan <section id="certificates" agar section ini dapat terhubung dengan tombol navigasi di navbar maupun tombol di Hero section menggunakan anchor link. Saya juga menambahkan class py-5 dari Bootstrap untuk memberikan jarak atas dan bawah agar tampilan lebih rapi.
 
 - Pengambilan Data dari Database
 
@@ -243,7 +243,7 @@ Penggunaan sistem dinamis ini membuat pengelolaan data sertifikat menjadi lebih 
 
 - Kode Grid Layout Sertifikat
 
-  > <img width="358" height="94" alt="image" src="https://github.com/user-attachments/assets/81617d98-de9f-43c3-8497-01f13c8da2e3" />
+  > <img width="324" height="66" alt="Image" src="https://github.com/user-attachments/assets/b53df69d-3f5c-47a6-b9b6-33e0e467d47c" />
   >
   > Pada bagian ini, saya menggunakan sistem grid dari Bootstrap seperti row, col-md-6, dan col-lg-4 untuk mengatur tata letak card sertifikat. Kode ini berfungsi supaya jumlah card dalam satu baris bisa menyesuaikan dengan ukuran layar.
   > Jadi ketika dibuka di layar besar, dalam satu baris bisa tampil tiga card sekaligus. Kalau di layar ukuran medium, tampil dua card. Sedangkan di layar kecil seperti HP, otomatis turun menjadi satu card per baris.
@@ -254,7 +254,7 @@ Penggunaan sistem dinamis ini membuat pengelolaan data sertifikat menjadi lebih 
 
   > <img width="593" height="117" alt="Image" src="https://github.com/user-attachments/assets/5a1faa84-0af4-4336-90a1-bfd9f2f2ee92" />
   >
-  > Pada bagian ini, saya menggunakan komponen card dari Bootstrap untuk menampilkan setiap sertifikat yang diambil dari database. Setiap data sertifikat yang diperoleh melalui query PHP kemudian ditampilkan ke dalam bentuk card agar tampil lebih terstruktur dan mudah dibaca oleh pengunjung website.
+  > Pada bagian ini, saya menggunakan komponen card dari Bootstrap untuk menampilkan setiap sertifikat dalam bentuk tampilan yang lebih terstruktur. Setiap card berisi gambar sertifikat, judul kegiatan, serta tahun pelaksanaan.
   >
   > Di dalam card terdapat gambar sertifikat, judul kegiatan, dan tahun pelaksanaan. Berbeda dengan versi statis, pada project ini data tersebut ditampilkan secara dinamis menggunakan PHP, yaitu dengan memanggil data dari database menggunakan variabel $row. Dengan cara ini, isi card akan otomatis menyesuaikan dengan data yang tersimpan di database.
   >
@@ -416,4 +416,3 @@ Setelah itu, saya membuat instance Vue dengan createApp() yang berisi data skill
 MINI PROJECT 2 PEMROGRAMAN BERBASIS WEB <br>
 <em>MaiPortofolio.</em> ✨
 </p>
-
