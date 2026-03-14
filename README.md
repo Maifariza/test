@@ -115,9 +115,7 @@ Footer dibuat dengan tampilan yang sederhana yang berisi informasi singkat menge
 
 ### **📌 Kode Section Home (Hero Section)**
 
-
-
-<img width="871" height="586" alt="Image" src="https://github.com/user-attachments/assets/87cd2101-26ad-4783-9c52-485456693395" />
+<img width="871" height="586" alt="Image" src="https://github.com/user-attachments/assets/ce638c72-9c86-4f4d-af51-e8aaa6ff8e29" />
 
 <Penjelasan:>
 
